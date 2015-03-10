@@ -1,0 +1,31 @@
+{
+  "name": "mma",
+  "version": "0.0.2",
+  "description": "Mixed Martial Arts API",
+  "main": "./lib/mma",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valish/mma-api"
+  },
+  "keywords": [
+    "MMA",
+    "API",
+    "Mixed",
+    "Martial",
+    "Arts"
+  ],
+  "author": "= <=>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Valish/mma-api/issues"
+  },
+  "homepage": "https://github.com/Valish/mma-api",
+  "dependencies": {
+    "google": "^0.6.0",
+    "sherdog": "^0.1.4",
+    "ufc": "^0.1.1"
+  }
+}
