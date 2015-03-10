@@ -60,53 +60,54 @@ npm install mma
       "others": 0
     },
     "strikes": {
-    "attempted": 1679,
-    "successful": 916,
-    "standing": 541,
-    "clinch": 188,
-    "ground": 187
-  },
-  "takedowns": {
-    "attempted": 64,
-    "successful": 33,
-    "submissions": 10,
-    "passes": 22,
-    "sweeps": 0
-  },
-  "fights": [
-    {
-      "name": "UFC 182 - Jones vs. Cormier",
-      "date": "Jan / 03 / 2015",
-      "url": "/events/UFC-182-Jones-vs-Cormier-38841",
-      "result": "win",
-      "method": "Decision (Unanimous)",
-      "referee": "Herb Dean",
-      "round": "5",
-      "time": "5:00",
-      "opponent": "Daniel Cormier"
+        "attempted": 1679,
+        "successful": 916,
+        "standing": 541,
+        "clinch": 188,
+        "ground": 187
     },
-    {
-      "name": "UFC 172 - Jones vs. Teixeira",
-      "date": "Apr / 26 / 2014",
-      "url": "/events/UFC-172-Jones-vs-Teixeira-34401",
-      "result": "win",
-      "method": "Decision (Unanimous)",
-      "referee": "Dan Miragliotta",
-      "round": "5",
-      "time": "5:00",
-      "opponent": "Glover Teixeira"
+    "takedowns": {
+        "attempted": 64,
+        "successful": 33,
+        "submissions": 10,
+        "passes": 22,
+        "sweeps": 0
     },
-    {
-      "name": "UFC 165 - Jones vs. Gustafsson",
-      "date": "Sep / 21 / 2013",
-      "url": "/events/UFC-165-Jones-vs-Gustafsson-30249",
-      "result": "win",
-      "method": "Decision (Unanimous)",
-      "referee": "John McCarthy",
-      "round": "5",
-      "time": "5:00",
-      "opponent": "Alexander Gustafsson"
-    }
-  ]
+    "fights": [
+        {
+            "name": "UFC 182 - Jones vs. Cormier",
+            "date": "Jan / 03 / 2015",
+            "url": "/events/UFC-182-Jones-vs-Cormier-38841",
+            "result": "win",
+            "method": "Decision (Unanimous)",
+            "referee": "Herb Dean",
+            "round": "5",
+            "time": "5:00",
+            "opponent": "Daniel Cormier"
+        },
+        {
+            "name": "UFC 172 - Jones vs. Teixeira",
+            "date": "Apr / 26 / 2014",
+            "url": "/events/UFC-172-Jones-vs-Teixeira-34401",
+            "result": "win",
+            "method": "Decision (Unanimous)",
+            "referee": "Dan Miragliotta",
+            "round": "5",
+            "time": "5:00",
+            "opponent": "Glover Teixeira"
+        },
+        {
+            "name": "UFC 165 - Jones vs. Gustafsson",
+            "date": "Sep / 21 / 2013",
+            "url": "/events/UFC-165-Jones-vs-Gustafsson-30249",
+            "result": "win",
+            "method": "Decision (Unanimous)",
+            "referee": "John McCarthy",
+            "round": "5",
+            "time": "5:00",
+            "opponent": "Alexander Gustafsson"
+        }
+    ]
+    //...
 }
-``  ` 
+``` 
