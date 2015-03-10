@@ -108,6 +108,5 @@ npm install mma
             "opponent": "Alexander Gustafsson"
         }
     ]
-    //...
 }
 ``` 
