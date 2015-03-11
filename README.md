@@ -1,6 +1,6 @@
 
 # MMA Fighter API
-Get fighter data from Sherdog and UFC profiles by name
+Get fighter JSON by name.  
 
 ## Install
 From source:
