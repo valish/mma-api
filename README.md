@@ -112,3 +112,6 @@ npm install mma
     ]
 }
 ``` 
+
+### More data coming soon: 
+- All fighter ranking information from FightMatrix.com profiles @ [fight-matrix-api](https://github.com/valish/fight-matrix-api)
