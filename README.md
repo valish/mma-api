@@ -21,7 +21,7 @@ npm install mma
 
 ```
 > var mma = require('mma');
-> mma.getFighter("Jon Jones", function(data) {
+> mma.fighter("Jon Jones", function(data) {
     console.log(data);
   });
 > {
