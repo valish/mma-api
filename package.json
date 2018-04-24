@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Valish/mma-api",
   "dependencies": {
     "google": "^1.4.0",
-    "sherdog": "^0.1.4",
+    "sherdog": "^0.1.10",
     "ufc": "^0.1.1"
   }
 }
