@@ -1,6 +1,6 @@
 {
   "name": "mma",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Mixed Martial Arts API",
   "main": "./lib/mma",
   "scripts": {
